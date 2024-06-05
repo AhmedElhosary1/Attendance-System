@@ -1,0 +1,24 @@
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\bin\Debug\Attendance System.exe.config
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\bin\Debug\Attendance System.exe
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\bin\Debug\Attendance System.pdb
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\bin\Debug\Guna.UI.dll
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance System.csprojAssemblyReference.cache
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormMain.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.Properties.Resources.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.GenerateResource.cache
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CopyComplete
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance System.exe
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance System.pdb
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormDepartments.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormAddDepartment.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormUsers.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormAddUser.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\bin\Debug\MetroFramework.dll
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormAttendance.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormLogin.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormRequests.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormReports.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormDashboard.resources
+C:\Users\AHMED\Desktop\Attendance System\Attendance System\obj\Debug\Attendance_System.FormForgotPassword.resources
